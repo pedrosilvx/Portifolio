@@ -16,7 +16,7 @@ export default function AboutMe() {
         <p className=" text-white text-opacity-60 text-xl font-normal">
           Olá a todos! Meu nome é Pedro, tenho 20 anos, estou aprimorando minhas
           habilidades na área de Front-End/UI, transformando minha paixão por
-          design e tecnologia em uma carreira gratificante. Minha jornada
+          design e tecnologia em uma carreira gratificante! Minha jornada
           começou com a descoberta do fascinante mundo do desenvolvimento
           front-end, onde aprendi a linguagem das interfaces digitais. Ao longo
           do tempo, meu objetivo tem sido criar experiências de usuário
