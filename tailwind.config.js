@@ -10,10 +10,10 @@ export default {
         "hover": ["4px solid #68f"]
       },
       backgroundImage: {
-        "hud": "url('./src/assets/hud.png')",
-        "service": "url('./src/assets/service.png')",
-        "skinshop": "url('./src/assets/skinshop.png')",
-        "dealership": "url('./src/assets/dealership.png')",
+        "hud": "url('./assets/hud.png')",
+        "service": "url('./assets/service.png')",
+        "skinshop": "url('./assets/skinshop.png')",
+        "dealership": "url('./assets/dealership.png')",
       }
     },
   },
